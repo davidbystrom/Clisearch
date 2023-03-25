@@ -24,5 +24,3 @@ go build
 ```
 .\Clisearch.exe {your search query here}
 ```
-## Credits
-@davidbystrom
