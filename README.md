@@ -15,7 +15,7 @@ Project is created with:
 ## Setup
 How to use the project.
 1. Clone the github repo to your local device.
-2. Install Go on your machine from [https://go.dev/dl/](here)
+2. Install Go on your machine from [here](https://go.dev/dl/)
 3. Build the Go project 
 ```
 go build
