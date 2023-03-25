@@ -9,8 +9,10 @@ This project is simple Lorem ipsum dolor generator.
 	
 ## Technologies
 Project is created with:
-* Go: 1.20.2
-* Goquery: 1.8.1
+* [Go](https://go.dev/dl/): 1.20.2
+* [Goquery](github.com/PuerkitoBio/goquery): 1.8.1
+* [Cascadia](github.com/andybalholm/cascadia): 1.3.1
+* []
 	
 ## Setup
 How to use the project:
