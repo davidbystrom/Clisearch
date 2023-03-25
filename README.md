@@ -12,7 +12,6 @@ Project is created with:
 * [Go](https://go.dev/dl/): 1.20.2
 * [Goquery](github.com/PuerkitoBio/goquery): 1.8.1
 * [Cascadia](github.com/andybalholm/cascadia): 1.3.1
-* []
 	
 ## Setup
 How to use the project:
