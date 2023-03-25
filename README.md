@@ -1,5 +1,5 @@
 # Clisearch: Search google from the command line
-[Go Tests](https://github.com/davidbystrom/Clisearch/actions/workflows/go.yml/badge.svg)
+![Go Tests](https://github.com/davidbystrom/Clisearch/actions/workflows/go.yml/badge.svg)
 ## Table of contents
 * [General info](#general-info)
 * [Technologies](#technologies)
