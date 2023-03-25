@@ -1,4 +1,4 @@
-# ClIsearch: Search google from the command line
+# Clisearch: Search google from the command line
 ## Table of contents
 * [General info](#general-info)
 * [Technologies](#technologies)
