@@ -47,6 +47,7 @@ func Scrape(query string) {
 }
 
 func main() {
+	//Build a query
 	queryArray := os.Args[1:]
 	query := strings.Join(queryArray, "+")
 	Scrape(query)
