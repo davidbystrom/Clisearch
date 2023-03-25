@@ -13,14 +13,10 @@ Project is created with:
 * Goquery: 1.8.1
 	
 ## Setup
-How to use the project.
-1. Clone the github repo to your local device.
+How to use the project:
+1. Clone the github repo to your local device using ```git clone https://github.com/davidbystrom/Clisearch```
 2. Install Go on your machine from [here](https://go.dev/dl/)
-3. Build the Go project 
-```
-go build
-```
-4. Run your query
-```
-.\Clisearch.exe {your search query here}
-```
+3. Open your CLI of choice
+4. cd into the project ```cd {path to project}```
+5. Build the Go project using ```go build```
+6. Run your query ```./Clisearch.exe {your search query here}```
